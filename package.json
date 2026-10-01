@@ -1,0 +1,14 @@
+{
+  "name": "trabajopractico",
+  "version": "1.0.0",
+  "description": "Entrega y Pre Entrega - Curso BackEnd con Node.js TT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Nelson Silva",
+  "license": "ISC",
+  "type": "module"
+}
